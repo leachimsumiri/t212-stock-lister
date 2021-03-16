@@ -1,0 +1,11 @@
+{
+	"name": "stockListing",
+	"version": "1.0.0",
+	"license": "UNLICENSED",
+	"description": "stockListing",
+	"dependencies": {
+		"fs": "latest",
+		"readline": "latest",
+		"axios": "latest"
+	}
+}
